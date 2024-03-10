@@ -1,0 +1,27 @@
+{
+  "name": "tea-quality-controlling",
+  "version": "1.0.0",
+  "description": "TEA protocol quality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emmanuel27st/tea-quality-controlling.git"
+  },
+  "keywords": [
+    "tea",
+    "qa"
+  ],
+  "dependencies": {
+    "tea-demo-arsen": "1.0.1",
+    "merklin-tea": "0.0.1"
+  },
+  "author": "emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmanuel27st/tea-quality-controlling/issues"
+  },
+  "homepage": "https://github.com/emmanuel27st/tea-quality-controlling#readme"
+}
